@@ -1,5 +1,5 @@
 
-*TASK 1A*
+#TASK 1A
 
 We need to ping some host.
 
@@ -18,7 +18,7 @@ Type the following commands to compile and execute ping1a program
 We need to use sudo to invoke root privileges.Else we get errors.You can check yourself
 
 
-*TASK 1B*
+#TASK 1B
 
 The program is almost same as ping1a
 
@@ -29,7 +29,7 @@ Changes happen only in the send_v4 and process_v4 functions.All others remain as
 Follow the same instructions inorder to compile and execute the program
 
 
-*TASK 2*
+#TASK 2
 
 In this program we need to print MAC Address of the local machine.
 
